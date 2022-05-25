@@ -22,4 +22,17 @@
 Регистрация на хероку в данный момент невозможна из России, для того, что бы преодолеть данный барьер необходимо установить VPN.<br> 
 После регистрации можно пушить файлы и с России. <br>
 
-Если понравилась данное описание, не скупись на лайкусик.
+
+
+
+
+Initialise with git: git init<br>
+
+Get the app name: heroku apps<br>
+
+Add remote:<br>
+
+heroku git:remote -a your_app_name<br>
+Edit: You can also run commands without permanently adding the app<br>
+
+heroku run -a your_app_name
