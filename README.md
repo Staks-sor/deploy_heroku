@@ -1,5 +1,6 @@
 # deploy_heroku
-<span style="color: green"> Деплой бота на хероку на Python.<br> </span>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=Деплой бота на хероку на Python) `#f03c15`
+Деплой бота на хероку на Python.<br>
 В данном случае рассматривается aiogram<br>
 1) Пишем бота <br>
 2) Создаем requirements.txt - добавляем в него все используемые библиотеки.<br>
