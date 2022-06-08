@@ -1,5 +1,5 @@
 # deploy_heroku
-<p style='color:red'>This is some red text.</p>
+
 Деплой бота на хероку на Python.<br>
 В данном случае рассматривается aiogram<br>
 1) Пишем бота <br>
